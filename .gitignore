@@ -1,0 +1,5 @@
+/build/**
+/dist/**
+HW*.png
+*.spec
+player.png
